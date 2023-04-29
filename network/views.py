@@ -1,9 +1,30 @@
 from django.http import HttpResponse
 
+from .parsers.wildberries import get_feedbacks
+from .parsers.ozon import get_review
+from .parsers.sportmaster import get_data
+from .parsers.lamoda import get_feedbacks_lamoda
+
+import json
+
 
 def my_view(request):
-	if request.method == 'GET':
-		param1 = request.GET.get('param1')
-		param2 = request.GET.get('param2')
+    if request.method == "POST":
+        body = request.body
 
-		return HttpResponse('Вы ввели: param1={}, param2={}'.format(param1, param2))
+        my_string = body.decode("utf-8")
+
+        my_json_body = json.loads(my_string)
+        feedbacks = []
+
+        for vender in my_json_body:
+            if vender["market_place"] == "wildberries":
+                feedbacks.extend(get_feedbacks(str(vender["vendor_code"])))
+            elif vender["market_place"] == "ozon":
+                feedbacks.extend(get_review(str(vender["vendor_code"])))
+            elif vender["market_place"] == "sportmaster":
+                feedbacks.extend(get_data(str(vender["vendor_code"])))
+            elif vender["market_place"] == "lamoda":
+                feedbacks.extend(get_feedbacks_lamoda(str(vender["vendor_code"])))
+
+        return HttpResponse(json.dumps(feedbacks, ensure_ascii=False))
