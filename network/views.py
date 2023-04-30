@@ -6,6 +6,7 @@ from .parsers.sportmaster import get_data
 from .parsers.lamoda import get_feedbacks_lamoda
 
 import json
+import requests
 
 
 def my_view(request):
@@ -19,7 +20,7 @@ def my_view(request):
 
         for vender in my_json_body:
             if vender["market_place"] == "wildberries":
-                feedbacks.extend(get_feedbacks(str(vender["vendor_code"])))
+                feedbacks.extend((get_feedbacks(str(vender["vendor_code"]))))
             elif vender["market_place"] == "ozon":
                 feedbacks.extend(get_review(str(vender["vendor_code"])))
             elif vender["market_place"] == "sportmaster":
@@ -27,4 +28,9 @@ def my_view(request):
             elif vender["market_place"] == "lamoda":
                 feedbacks.extend(get_feedbacks_lamoda(str(vender["vendor_code"])))
 
-        return HttpResponse(json.dumps(feedbacks, ensure_ascii=False))
+        return HttpResponse(
+            requests.post(
+                "http://0.0.0.0:8383/predict",
+                json=json.dumps(feedbacks, ensure_ascii=False),
+            )
+        )

@@ -1,0 +1,238 @@
+1682776266634	geckodriver	INFO	Listening on 127.0.0.1:36219
+1682776299428	geckodriver	INFO	Listening on 127.0.0.1:37401
+1682778260258	geckodriver	INFO	Listening on 127.0.0.1:47533
+1682778690667	geckodriver	INFO	Listening on 127.0.0.1:34625
+1682796131236	geckodriver	INFO	Listening on 127.0.0.1:57355
+1682796406661	geckodriver	INFO	Listening on 127.0.0.1:53829
+1682797087189	geckodriver	INFO	Listening on 127.0.0.1:33781
+/usr/bin/firefox: 12: xdg-settings: not found
+1682797087853	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ge" "--remote-debugging-port" "39483" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2AWbsn"
+/usr/bin/firefox: 12: xdg-settings: not found
+Error: no DISPLAY environment variable specified
+1682797219041	geckodriver	INFO	Listening on 127.0.0.1:51111
+/usr/bin/firefox: 12: xdg-settings: not found
+1682797219736	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ge" "--remote-debugging-port" "49243" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejk1Vxq"
+/usr/bin/firefox: 12: xdg-settings: not found
+Error: no DISPLAY environment variable specified
+1682797345144	geckodriver	INFO	Listening on 127.0.0.1:56537
+/usr/bin/firefox: 12: xdg-settings: not found
+1682797345783	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ge" "--remote-debugging-port" "47809" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLh905y"
+/usr/bin/firefox: 12: xdg-settings: not found
+Error: no DISPLAY environment variable specified
+1682797591604	geckodriver	INFO	Listening on 127.0.0.1:50925
+/usr/bin/firefox: 12: xdg-settings: not found
+1682797592271	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ge" "--remote-debugging-port" "45027" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuLEfmK"
+/usr/bin/firefox: 12: xdg-settings: not found
+Error: cannot open display: localhost:10.0
+1682797678275	geckodriver	INFO	Listening on 127.0.0.1:56369
+/usr/bin/firefox: 12: xdg-settings: not found
+1682797678948	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ge" "--remote-debugging-port" "38437" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7TzcEP"
+/usr/bin/firefox: 12: xdg-settings: not found
+Error: cannot open display: localhost:10.0
+1682797702524	geckodriver	INFO	Listening on 127.0.0.1:57951
+/usr/bin/firefox: 12: xdg-settings: not found
+1682797703185	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ge" "--remote-debugging-port" "40203" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQk1olW"
+/usr/bin/firefox: 12: xdg-settings: not found
+Error: cannot open display: localhost:10.0
+1682797727192	geckodriver	INFO	Listening on 127.0.0.1:33009
+/usr/bin/firefox: 12: xdg-settings: not found
+1682797727841	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ge" "--remote-debugging-port" "58719" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenw5aEr"
+/usr/bin/firefox: 12: xdg-settings: not found
+Error: cannot open display: localhost:10.0
+1682798133074	geckodriver	INFO	Listening on 127.0.0.1:55265
+1682798350065	geckodriver	INFO	Listening on 127.0.0.1:44401
+1682798495171	geckodriver	INFO	Listening on 127.0.0.1:52591
+1682798775412	geckodriver	INFO	Listening on 127.0.0.1:60761
+/usr/bin/firefox: 12: xdg-settings: not found
+1682798776062	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ge" "--remote-debugging-port" "39667" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOrE6Ly"
+/usr/bin/firefox: 12: xdg-settings: not found
+Error: cannot open display: localhost:10.0
+1682798854638	geckodriver	INFO	Listening on 127.0.0.1:43931
+/usr/bin/firefox: 12: xdg-settings: not found
+1682798855291	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ge" "--remote-debugging-port" "58519" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiler1IlSy"
+/usr/bin/firefox: 12: xdg-settings: not found
+Error: cannot open display: localhost:10.0
+1682798971052	geckodriver	INFO	Listening on 127.0.0.1:60073
+/usr/bin/firefox: 12: xdg-settings: not found
+1682798971768	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ge" "--remote-debugging-port" "51427" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilea68QwK"
+/usr/bin/firefox: 12: xdg-settings: not found
+Error: cannot open display: localhost:10.0
+1682800011700	geckodriver	INFO	Listening on 127.0.0.1:53599
+/usr/bin/firefox: 12: xdg-settings: not found
+1682800012362	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ge" "--remote-debugging-port" "42293" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6dFMwU"
+/usr/bin/firefox: 12: xdg-settings: not found
+Error: cannot open display: localhost:10.0
+1682800020691	geckodriver	INFO	Listening on 127.0.0.1:40119
+/usr/bin/firefox: 12: xdg-settings: not found
+1682800021351	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ge" "--remote-debugging-port" "53171" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileis4PLn"
+/usr/bin/firefox: 12: xdg-settings: not found
+Error: cannot open display: localhost:10.0
+1682800269627	geckodriver	INFO	Listening on 127.0.0.1:46765
+/usr/bin/firefox: 12: xdg-settings: not found
+1682800270466	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ge" "--remote-debugging-port" "42285" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileO1lgxM"
+/usr/bin/firefox: 12: xdg-settings: not found
+1682800338934	geckodriver	INFO	Listening on 127.0.0.1:51611
+/usr/bin/firefox: 12: xdg-settings: not found
+1682800339580	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ge" "--remote-debugging-port" "42971" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0Ibm6F"
+/usr/bin/firefox: 12: xdg-settings: not found
+1682800358568	geckodriver	INFO	Listening on 127.0.0.1:60959
+/usr/bin/firefox: 12: xdg-settings: not found
+1682800359235	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ge" "--remote-debugging-port" "46923" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemPd0uL"
+/usr/bin/firefox: 12: xdg-settings: not found
+1682800460830	geckodriver	INFO	Listening on 127.0.0.1:48075
+/usr/bin/firefox: 12: xdg-settings: not found
+1682800461484	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ge" "--remote-debugging-port" "35855" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1SyoVm"
+/usr/bin/firefox: 12: xdg-settings: not found
+1682800837583	geckodriver	INFO	Listening on 127.0.0.1:45457
+/usr/bin/firefox: 12: xdg-settings: not found
+1682800838099	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ge" "--remote-debugging-port" "43139" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBwSPqS"
+/usr/bin/firefox: 12: xdg-settings: not found
+/snap/bin/firefox: error: Found argument '--marionette' which wasn't expected, or isn't valid in this context
+
+	Did you mean '--marionette-port'?
+
+	If you tried to supply `--marionette` as a value rather than a flag, use `-- --marionette`
+
+USAGE:
+    firefox --marionette-port <PORT>
+
+For more information try --help
+
+1682800849131	geckodriver	INFO	Listening on 127.0.0.1:49003
+/usr/bin/firefox: 12: xdg-settings: not found
+1682800849646	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ge" "--remote-debugging-port" "37075" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5rIRXl"
+/usr/bin/firefox: 12: xdg-settings: not found
+/snap/bin/firefox: error: Found argument '--marionette' which wasn't expected, or isn't valid in this context
+
+	Did you mean '--marionette-port'?
+
+	If you tried to supply `--marionette` as a value rather than a flag, use `-- --marionette`
+
+USAGE:
+    firefox --marionette-port <PORT>
+
+For more information try --help
+
+1682801358606	geckodriver	INFO	Listening on 127.0.0.1:34045
+/usr/bin/firefox: 12: xdg-settings: not found
+1682801359120	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ge" "--remote-debugging-port" "42025" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKCDyde"
+/usr/bin/firefox: 12: xdg-settings: not found
+/snap/bin/firefox: error: Found argument '--marionette' which wasn't expected, or isn't valid in this context
+
+	Did you mean '--marionette-port'?
+
+	If you tried to supply `--marionette` as a value rather than a flag, use `-- --marionette`
+
+USAGE:
+    firefox --marionette-port <PORT>
+
+For more information try --help
+
+1682801447359	geckodriver	INFO	Listening on 127.0.0.1:56789
+/usr/bin/firefox: 12: xdg-settings: not found
+1682801447877	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ge" "--remote-debugging-port" "47181" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelyI7eM"
+/usr/bin/firefox: 12: xdg-settings: not found
+/snap/bin/firefox: error: Found argument '--marionette' which wasn't expected, or isn't valid in this context
+
+	Did you mean '--marionette-port'?
+
+	If you tried to supply `--marionette` as a value rather than a flag, use `-- --marionette`
+
+USAGE:
+    firefox --marionette-port <PORT>
+
+For more information try --help
+
+1682801522045	geckodriver	INFO	Listening on 127.0.0.1:49993
+/usr/bin/firefox: 12: xdg-settings: not found
+1682801522561	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ge" "--remote-debugging-port" "53263" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileoCTgK9"
+/usr/bin/firefox: 12: xdg-settings: not found
+/snap/bin/firefox: error: Found argument '--marionette' which wasn't expected, or isn't valid in this context
+
+	Did you mean '--marionette-port'?
+
+	If you tried to supply `--marionette` as a value rather than a flag, use `-- --marionette`
+
+USAGE:
+    firefox --marionette-port <PORT>
+
+For more information try --help
+
+1682801534701	geckodriver	INFO	Listening on 127.0.0.1:55133
+/usr/bin/firefox: 12: xdg-settings: not found
+1682801535217	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ge" "--remote-debugging-port" "40831" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileICriyc"
+/usr/bin/firefox: 12: xdg-settings: not found
+/snap/bin/firefox: error: Found argument '--marionette' which wasn't expected, or isn't valid in this context
+
+	Did you mean '--marionette-port'?
+
+	If you tried to supply `--marionette` as a value rather than a flag, use `-- --marionette`
+
+USAGE:
+    firefox --marionette-port <PORT>
+
+For more information try --help
+
+/usr/bin/firefox: 12: xdg-settings: not found
+1682801581499	geckodriver	INFO	Listening on 127.0.0.1:52783
+/usr/bin/firefox: 12: xdg-settings: not found
+1682801582010	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ge" "--remote-debugging-port" "59459" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileo0kjg3"
+/usr/bin/firefox: 12: xdg-settings: not found
+/snap/bin/firefox: error: Found argument '--marionette' which wasn't expected, or isn't valid in this context
+
+	Did you mean '--marionette-port'?
+
+	If you tried to supply `--marionette` as a value rather than a flag, use `-- --marionette`
+
+USAGE:
+    firefox --marionette-port <PORT>
+
+For more information try --help
+
+1682801708536	geckodriver	INFO	Listening on 127.0.0.1:40331
+/usr/bin/firefox: 12: xdg-settings: not found
+1682801709051	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ge" "--remote-debugging-port" "34483" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileH1EFrT"
+/usr/bin/firefox: 12: xdg-settings: not found
+/snap/bin/firefox: error: Found argument '--marionette' which wasn't expected, or isn't valid in this context
+
+	Did you mean '--marionette-port'?
+
+	If you tried to supply `--marionette` as a value rather than a flag, use `-- --marionette`
+
+USAGE:
+    firefox --marionette-port <PORT>
+
+For more information try --help
+
+1682802347657	geckodriver	INFO	Listening on 127.0.0.1:42891
+/usr/bin/firefox: 12: xdg-settings: not found
+1682802348176	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ge" "--remote-debugging-port" "40803" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilec77QDe"
+/usr/bin/firefox: 12: xdg-settings: not found
+/snap/bin/firefox: error: Found argument '--marionette' which wasn't expected, or isn't valid in this context
+
+	Did you mean '--marionette-port'?
+
+	If you tried to supply `--marionette` as a value rather than a flag, use `-- --marionette`
+
+USAGE:
+    firefox --marionette-port <PORT>
+
+For more information try --help
+
+1682803467799	geckodriver	INFO	Listening on 127.0.0.1:47929
+/usr/bin/firefox: 12: xdg-settings: not found
+1682803468315	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ge" "--remote-debugging-port" "54517" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilel3P1yZ"
+/usr/bin/firefox: 12: xdg-settings: not found
+/snap/bin/firefox: error: Found argument '--marionette' which wasn't expected, or isn't valid in this context
+
+	Did you mean '--marionette-port'?
+
+	If you tried to supply `--marionette` as a value rather than a flag, use `-- --marionette`
+
+USAGE:
+    firefox --marionette-port <PORT>
+
+For more information try --help
+
+1682803841905	geckodriver	INFO	Listening on 127.0.0.1:43123
+/usr/bin/firefox: 12: xdg-settings: not found
